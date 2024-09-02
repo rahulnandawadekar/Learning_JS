@@ -1,0 +1,1 @@
+document.write('Hello Today I am 2nd lecture')
